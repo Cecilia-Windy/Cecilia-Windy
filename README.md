@@ -2,7 +2,7 @@
 - 👀 I’m interested in **programming**
 - 🌱 I’m currently learning ***C++***
 - 💞️ I will be a Totoro 
-- 📫 How to reach me : Email -> **hy1415926535897932@outlook.com*
+- 📫 How to reach me : Email -> *hy1415926535897932@outlook.com*
 - 😄 Pronouns: He? || *it😄*
 - ⚡ Fun fact: The Totoro eats acorns
 - ✨ Wish You Good Luck!
